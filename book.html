@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>book</title>
+	<style type="text/css">
+		#book{
+			align-content: center;
+		}
+	</style>
+</head>
+<body>
+	<div id="book">select from the below books to choose</div>
+	<ol>
+		{% for book in books %}
+			<li>book with isbn {{book.isbn}} ; title {{book.title}} ; author {{book.author}} in year {{book.year}}</li>
+		{% endfor %}
+	</ol>
+	
+</body>
+</html>

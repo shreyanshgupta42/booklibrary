@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"login"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"grid-row",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"grid-gap",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-blend-mode\tproperty"
+			],
+			[
+				"bor",
+				"bgcolor\tAttr"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"le",
+				"levelorder"
+			],
+			[
+				"new",
+				"newnode"
+			],
+			[
+				"ne",
+				"newbtnode"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"en",
+				"enqueue"
+			],
+			[
+				"is",
+				"isoperand"
+			],
+			[
+				"in",
+				"infixtopostfix"
+			],
+			[
+				"s",
+				"stack"
+			],
+			[
+				"ma",
+				"max_size"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pt",
+				"printformat"
+			],
+			[
+				"wh",
+				"while"
+			],
+			[
+				"linked",
+				"linkedlist"
+			],
+			[
+				"line",
+				"lines"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"p",
+				"points"
+			],
+			[
+				"draw",
+				"draw_point"
+			],
+			[
+				"dr",
+				"draw_point"
+			],
+			[
+				"da",
+				"draw"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"animation",
+				"animation-name\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"roll",
+				"rolls"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"link",
+				"link-nav"
+			],
+			[
+				"Soc",
+				"SocketIO"
+			],
+			[
+				"So",
+				"SocketIO"
+			],
+			[
+				"S",
+				"SOCKETIO"
+			],
+			[
+				"jso",
+				"jsonify"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"onmou",
+				"onmouseover\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"passenger"
+			],
+			[
+				"fli",
+				"flight_id"
+			],
+			[
+				"li",
+				"libraryman"
+			],
+			[
+				"library",
+				"libraryman"
+			],
+			[
+				"book",
+				"bookid"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"INt",
+				"Integer"
+			],
+			[
+				"sql",
+				"sqlite"
+			],
+			[
+				"user",
+				"userDetails"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"mysql",
+				"mysql"
+			],
+			[
+				"fl",
+				"flights"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"backgroundcl",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"lin",
+				"linkedlist"
+			],
+			[
+				"dis",
+				"distinct"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application.py",
+			"settings":
+			{
+				"buffer_size": 3515,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Documents/hello_django/env/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py",
+		"/C/Users/HP/Documents/flask/currencyconverterjs.py",
+		"/C/Users/HP/Documents/flask/flightpassenger.py",
+		"/C/Users/HP/Documents/flask/flightpassengertable.py",
+		"/C/Users/HP/Documents/flask/flightpassengertablecreate.py",
+		"/C/Users/HP/Documents/flask/multipletosinglepage.py",
+		"/C/Users/HP/Documents/sublime/multipletosinglepage.py",
+		"/C/Users/HP/Documents/sublime/flaskfirst.py",
+		"/C/Users/HP/Documents/sublime/project0/mars.html",
+		"/C/Users/HP/Documents/sublime/project0/earth.html",
+		"/C/Users/HP/Documents/sublime/project0/asteroidbelt.html",
+		"/C/Users/HP/Documents/sublime/project0/planets.html",
+		"/C/Users/HP/Documents/sublime/project0/index.html",
+		"/C/Users/HP/Documents/sublime/project0/string.java",
+		"/C/Users/HP/Documents/sublime/stack.cpp",
+		"/C/Users/HP/Documents/sublime/stackbylinkedlist.cpp",
+		"/C/Users/HP/Documents/sublime/reverseastring.cpp",
+		"/C/Users/HP/Documents/sublime/perenthesisusingstack.cpp",
+		"/C/Users/HP/Documents/sublime/tree.cpp",
+		"/C/Users/HP/Documents/sublime/treelevelorder.cpp",
+		"/C/Users/HP/Documents/sublime/treepreorderinorderpostorder.cpp",
+		"/C/Users/HP/Documents/sublime/treenodedeletion.cpp",
+		"/C/Users/HP/Documents/sublime/btreesuccessor.cpp",
+		"/C/Users/HP/Documents/sublime/linkedlist.java",
+		"/C/Users/HP/Documents/sublime/linkedlist4.java",
+		"/C/Users/HP/Documents/sublime/linkedlist2.cpp",
+		"/C/Users/HP/Documents/sublime/linkedlist3.cpp",
+		"/C/Users/HP/Documents/sublime/linkedlistagain.java",
+		"/C/Users/HP/Documents/sublime/linkedlistjava.java",
+		"/C/Users/HP/Documents/sublime/infixtopostfix.cpp",
+		"/C/Users/HP/Documents/sublime/queueusingarray.cpp",
+		"/C/Users/HP/Documents/sublime/queueusinglinkedlist.cpp",
+		"/C/Users/HP/Documents/sublime/reverselinkedlist.cpp",
+		"/C/Users/HP/Documents/sublime/reverselinkedlistbyiteration.cpp",
+		"/C/Users/HP/Documents/sublime/queue.java",
+		"/C/Users/HP/Documents/sublime/chegg.java",
+		"/C/Users/HP/Documents/sublime/linkedlistbyclass.cpp",
+		"/C/Users/HP/Documents/sublime/linkedlistbyclass.app",
+		"/C/Users/HP/Documents/sublime/linkedlist.cpp",
+		"/C/Users/HP/Documents/sublime/stackbylinkedlist.app",
+		"/C/Users/HP/Documents/sublime/helloworld.cpp",
+		"/C/Users/HP/Documents/sublime/primenumbers.java",
+		"/C/Users/HP/Documents/sublime/primenumbers.cpp",
+		"/C/Users/HP/Documents/sublime/counterjs5.html",
+		"/C/Users/HP/Documents/sublime/prime.py",
+		"/C/Users/HP/Documents/flask/currencyconverterjs.html",
+		"/C/Users/HP/Documents/flask/app1.py",
+		"/C/Users/HP/Documents/flask/app.py",
+		"/C/Users/HP/Documents/flask/votejs.html",
+		"/C/Users/HP/Documents/sublime/svg3.html",
+		"/C/Users/HP/Documents/sublime/multipletosinglepage.html",
+		"/C/Users/HP/Documents/flask/votejs.py",
+		"/C/Users/HP/Documents/sublime/loop.html",
+		"/C/Users/HP/Documents/sublime/animate0.html",
+		"/C/Users/HP/Documents/sublime/svg2.html",
+		"/C/Users/HP/Documents/sublime/svg1.html",
+		"/C/Users/HP/Documents/sublime/svg0.html",
+		"/C/Users/HP/Documents/flask/reload.py",
+		"/C/Users/HP/Documents/flask/reload.html",
+		"/C/Users/HP/Documents/sublime/rolldicemultiple.html",
+		"/C/Users/HP/Documents/sublime/rolldiceonce.html",
+		"/C/Users/HP/Documents/flask/rolldiceonce.html",
+		"/C/Users/HP/Documents/flask/rolldicemultiple.html",
+		"/C/Users/HP/Documents/sublime/htmltemplates.html",
+		"/C/Users/HP/Documents/sublime/htmltemplates1.html",
+		"/C/Users/HP/Documents/flask/templates/bootstrap0.html",
+		"/C/Users/HP/Documents/flask/templates/show.html",
+		"/C/Users/HP/Documents/flask/templates/app1file.html",
+		"/C/Users/HP/Documents/sublime/counterjs2.html",
+		"/C/Users/HP/Documents/sublime/savinginlocalstoragejs.html",
+		"/C/Users/HP/Documents/sublime/counterjswithtimer.html",
+		"/C/Users/HP/Documents/sublime/todolistjs.html",
+		"/C/Users/HP/Documents/sublime/colorjs2.html",
+		"/C/Users/HP/Documents/sublime/colorjs.html",
+		"/C/Users/HP/Documents/flask/counterjs3.js",
+		"/C/Users/HP/Documents/flask/counterjs.html",
+		"/C/Users/HP/Documents/flask/counterjs2.html",
+		"/C/Users/HP/Documents/sublime/counterjs4.html",
+		"/C/Users/HP/Documents/sublime/hellonamejs.html",
+		"/C/Users/HP/Documents/flask/counterjs3.html",
+		"/C/Users/HP/Documents/flask/onmouseoverjs2.html",
+		"/C/Users/HP/Documents/flask/onmouseoverjs.html",
+		"/C/Users/HP/Documents/flask/firstjs.html",
+		"/C/Users/HP/Documents/sublime/pythonmethods.py",
+		"/C/Users/HP/Documents/sublime/new.html",
+		"/C/Users/HP/Documents/sublime/bootstrap.html",
+		"/C/Users/HP/Documents/flask/templates/templates0.html",
+		"/C/Users/HP/Documents/flask/templates/form.html",
+		"/C/Users/HP/Documents/flask/templates/db.yaml",
+		"/C/Users/HP/Documents/sublime/flex.html",
+		"/C/Users/HP/Documents/sublime/hellonew.html",
+		"/C/Users/HP/Documents/sublime/sass.html",
+		"/C/Users/HP/Documents/sublime/sasscssfile.css",
+		"/C/Users/HP/gitrepo/lecture0/style.css",
+		"/C/Users/HP/gitrepo/lecture0/hello.html",
+		"/C/Users/HP/AppData/Local/Temp/Rar$DIa16056.22837/fadedtab.css",
+		"/C/Users/HP/Documents/sublime/sasscssfilesass.scss.haml",
+		"/C/Users/HP/Documents/sublime/distinctdigits.cpp",
+		"/C/Users/HP/Documents/sublime/hello.html",
+		"/C/Users/HP/Documents/sublime/fact2.cpp",
+		"/C/Users/HP/Documents/sublime/sumrevere.java",
+		"/C/Users/HP/Documents/sublime/fstream.cpp",
+		"/C/Users/HP/gitrepo/hello.html",
+		"/C/Users/HP/Documents/sublime/factorialrecurrsion.cpp",
+		"/C/Users/HP/Desktop/hello1.txt",
+		"/C/Users/HP/Documents/sublime/print1to6.py",
+		"/C/Users/HP/Desktop/hello1.cpp",
+		"/C/Users/HP/Documents/sublime/array.cpp",
+		"/C/Users/HP/Documents/sublime/array2.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"all the planets",
+			" >"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

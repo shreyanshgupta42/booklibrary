@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block body %}
+	
+	<ol>
+		Select from the below Books to choose
+		{% for book in books %}
+			<li>
+				<a href="{{ url_for('bookid', book_id=book.id) }}">
+					Book with ISBN {{book.isbn}} ; Title {{book.title}} ; Author {{book.author}} in Year {{book.year}}
+				</a>
+			</li>
+		{% endfor %}
+	</ol>
+{% endblock %}
